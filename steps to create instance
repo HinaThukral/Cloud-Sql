@@ -1,0 +1,9 @@
+Enable billing
+Choose first generation
+create button
+create user
+open cloud shell
+write this command to connect to your instance
+gcloud sql connect instance_name --user=user_name
+enter password
+Now you can run your sql commands
