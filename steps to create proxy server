@@ -1,0 +1,4 @@
+creating cloud sql instance, assigning IP address and authorizing the network on cloud sql
+creating a new database and a new user on cloud sql
+Add new server in config.inc.php file
+open phpmyadmin and create tables
